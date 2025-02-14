@@ -7,8 +7,8 @@
 
 import SwiftUI
 
-struct UIMovieCard: View {
-    var body: some View {
+public struct UIMovieCard: View {
+    public var body: some View {
         Text(/*@START_MENU_TOKEN@*/"Hello, World!"/*@END_MENU_TOKEN@*/)
     }
 }
